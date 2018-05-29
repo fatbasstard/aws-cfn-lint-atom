@@ -1,6 +1,7 @@
 {
   "name": "atom-cfn-lint",
   "main": "./lib/atom-cfn-lint",
+<<<<<<< HEAD
   "version": "0.5.1",
   "description": "Validate CloudFormation yaml/json templates against the CloudFormation spec and additional checks. Includes checking valid values for resource properties and best practices.",
   "keywords": [
@@ -8,6 +9,11 @@
     "AWS",
     "CloudFormation"
   ],
+=======
+  "version": "0.4.0",
+  "description": "Validate CloudFormation yaml/json templates against the CloudFormation spec and additional checks. Includes checking valid values for resource properties and best practices.",
+  "keywords": ["linter", "AWS", "CloudFormation"],
+>>>>>>> Update description
   "repository": "https://github.com/awslabs/aws-cfn-lint-atom",
   "license": "Apache-2.0",
   "engines": {
